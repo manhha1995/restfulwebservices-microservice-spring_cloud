@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "quarkus.hibernate-orm.database.generation",
+      "type": "java.lang.String",
+      "description": "Description for quarkus.hibernate-orm.database.generation."
+  }
+] }
